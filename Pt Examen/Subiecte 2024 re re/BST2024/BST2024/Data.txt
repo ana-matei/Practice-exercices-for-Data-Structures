@@ -1,0 +1,7 @@
+12,100,true,2024/04/20,Maria
+17,500,false,2023/07/10,Mihaela
+18,400,false,2023/06/19,Diana
+14,300,true,2022/05/08,Stefan
+13,350,false,2023/10/29,Mihai
+10,700,true,2024/11/18,Ana
+11,800,false,2023/01/01,Cris
